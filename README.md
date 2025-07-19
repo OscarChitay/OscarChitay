@@ -23,8 +23,8 @@
 </h1>
 
 
-<img align="left" src="https://github.com/OscarChitay/OscarChitay/blob/main/Programming%20Guy.png?raw=true" alt="I chang with Sora the original picture, i dont know the artist" width="300" />
-<hr>
+<img align="left" src="https://github.com/OscarChitay/OscarChitay/blob/main/image.png?raw=true" alt="I chang with Sora the original picture, i dont know the artist" width="300" />
+<br>
 
 ```
 oscarchitay@github
