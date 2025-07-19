@@ -5,34 +5,39 @@
   
 <br/>
 <br/>
-  
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginering+Student;Always%20learning%20new%20things&Tech%20Enthusiastic&center=true&width=380&height=45" /></a></a>
 </p>
-
-
-
   <!--BADGES-->
-
 <p>
-  
-  
   <img src="https://custom-icon-badges.demolab.com/badge/-oscarchitayy@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
-
-  <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-yellow?style=for-the-badge&logoColor=white&logo=linkeIn"/>
-
+  <a href="www.linkedin.com/in/oscar-chitay">
+  <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-yellow?style=for-the-badge&logoColor=white&logo=linkeIn"/></a>
 <a href="https://github.com/OscarChitay?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OscarChitay?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
      <a href="https://github.com/OscarChitay?tab=repositories">
 <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-purple?style=for-the-badge&logoColor=white&logo=repo"/></a>
  <img src="https://custom-icon-badges.demolab.com/badge/Location-Guatemala-blue?style=for-the-badge&logo=location&logoColor=white"></a>
-    
-
 </p>
-  
 </h1>
-  
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+<hr>
 
 
 ## 🛠️ My stuff
