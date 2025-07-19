@@ -1,8 +1,6 @@
 <h1 align="center">
-  Hi, I'm Oscar Chitay...
-  <!-- Hand gift-->
+  Hello World, I'm Oscar Chitay  <!-- Hand gift-->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='30'>
-  
 <br/>
 <br/>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
