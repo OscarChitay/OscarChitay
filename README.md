@@ -22,7 +22,7 @@
 
 
 <img align="left" src="https://github.com/OscarChitay/OscarChitay/blob/main/image.png?raw=true" alt="I chang with Sora the original picture, i dont know the artist" width="300" />
-<br>
+<br/>
 
 ```
 oscarchitay@github
@@ -37,11 +37,12 @@ oscarchitay@github
 💡 always looking for ways to improve and build creative ideas
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
 ```
+<h1></h1>
+<br/>
 
 
 
-## 🛠️ My stuff
-
+### 🛠️ STUFF
 ### 🎯Programming Languages
 
 <p>
