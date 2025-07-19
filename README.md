@@ -7,12 +7,12 @@
 <br/>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginering+Student;Always%20learning%20new%20things&Tech%20Enthusiastic&center=true&width=380&height=45" /></a></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginering+Student;Always%20learning%20new%20things;Tech%20Enthusiastic&center=false&width=380&height=45" /></a></a>
 </p>
   <!--BADGES-->
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/-oscarchitayy@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
-  <a href="www.linkedin.com/in/oscar-chitay">
+  <a href="https://www.linkedin.com/in/oscar-chitay">
   <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-yellow?style=for-the-badge&logoColor=white&logo=linkeIn"/></a>
 <a href="https://github.com/OscarChitay?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OscarChitay?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -21,21 +21,23 @@
  <img src="https://custom-icon-badges.demolab.com/badge/Location-Guatemala-blue?style=for-the-badge&logo=location&logoColor=white"></a>
 </p>
 </h1>
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+
+
+<img align="left" src="" alt="" width="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
+oscarchitay@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 I'm a Systems Engineering student passionate about technology and software development
+🎓 Currently studying at university and constantly learning new tools and languages on my own
+🤖 Interested in smart systems and hands-on projects with Arduino
+🛠 Currently working on personal projects related to minimalism and programming
+🌱 Learning about databases, web development, and automation
+🌟 Main languages: Html,Css, JavaScript, SQL
+🚀 Passionate about Full Stack development and integrating AI into real-world solutions
+💡 Naturally curious, always looking for ways to improve and build creative ideas
+🎧 Music helps me focus — from lofi to electronic, depending on the vibe
 ```
 <hr>
 
