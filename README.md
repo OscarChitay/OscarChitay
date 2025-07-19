@@ -27,17 +27,17 @@
 ```
 oscarchitay@github
 -------------------------
-💻 I'm a Systems Engineering student passionate about technology and software development
-🎓 Currently studying at university and constantly learning new tools and languages on my own
-🤖 Interested in smart systems and hands-on projects with Arduino
+💻 Systems Engineering student passionate about technology and software development
+🎓 Currently studying at university and constantly learning new tools and languages
+🤖 Interested in smart systems and hands-on projects 
 🛠 Currently working on personal projects related to minimalism and programming
 🌱 Learning about databases, web development, and automation
 🌟 Main languages: Html,Css, JavaScript, SQL
-🚀 Passionate about Full Stack development and integrating AI into real-world solutions
+🚀 Passionate about Full Stack development and 
 💡 Naturally curious, always looking for ways to improve and build creative ideas
 🎧 Music helps me focus — from lofi to electronic, depending on the vibe
 ```
-<hr>
+
 
 
 ## 🛠️ My stuff
