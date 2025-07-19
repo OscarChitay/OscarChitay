@@ -29,10 +29,10 @@ oscarchitay@github
 -------------------------
 💻 Systems Engineering student passionate about technology and develpent
 🎓 Studying at university and constantly learning new tools and languages
-🤖 Interested in smart systems and hands-on projects 
+🤖 Interested in smart systems and hands-on projects or co-working
 🛠 Currently working on personal projects related to minimalism
 🌱 Learning about databases, web development, and automation
-🌟 Main languages: Html,Css, JavaScript, SQL
+🌟 Main languages: Html,Css, JavaScript, SQL, Phython, MSSQL, Git
 🚀 Passionate about Full Stack development and UI & UX 
 💡 always looking for ways to improve and build creative ideas
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
