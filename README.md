@@ -40,7 +40,7 @@ oscarchitay@github
 
 ```
 
-<br><br>
+<br>
 <h3 align="center"> 🛠️My Stack🛠️ </h3>
 
 ### 🎯Programming Languages
