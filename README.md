@@ -39,6 +39,7 @@ oscarchitay@github
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
 
 ```
+
 <br>
 <h3 align="center"> 🛠️My Stack🛠️ </h3>
 
@@ -66,6 +67,7 @@ oscarchitay@github
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
      <a href="#"><img alt="SSMS" src ="https://img.shields.io/badge/SSMS-greem.svg?logo=&logoColor=white"></a>
+     <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-9C033A.svg?"></a>
 </p>
 
 ### 💻 Software and Tools
