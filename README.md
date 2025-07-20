@@ -5,7 +5,7 @@
 <br/>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF652F&width=380&height=45&lines=Systems+Engineering+Student;Always+learning+new+things;Thech+Enthusiastic;Looking+for+a+team+to+work" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=380&height=45&lines=Systems+Engineering+Student;Always+learning+new+things;Thech+Enthusiastic;Looking+for+a+team+to+work" alt="Typing SVG" /></a>
 </p>
   <!--BADGES-->
 <p>
@@ -39,7 +39,6 @@ oscarchitay@github
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
 
 ```
-<h1></h1>
 
 <h3 align="center"> 🛠️My Stack🛠️ </h3>
 
