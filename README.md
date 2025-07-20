@@ -33,7 +33,7 @@ oscarchitay@github
 🤖 Interested in smart systems and hands-on projects or co-working
 🛠 Currently working on personal projects related to minimalism
 🌱 Learning about databases, web development, and automation
-🌟 Main languages: Html,Css, JavaScript, SQL, Phython, MSSQL, Git
+🌟 Main languages: HTML,CSS, JavaScript, SQL, C++, MSSQL, Git
 🚀 Passionate about Full Stack development and UI & UX 
 💡 always looking for ways to improve and build creative ideas
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
@@ -64,6 +64,7 @@ oscarchitay@github
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+     <a href="#"><img alt="SSMS" src ="https://img.shields.io/badge/SSMS-greem.svg?logo=&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -87,6 +88,24 @@ oscarchitay@github
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-999999?style=for-the-badge&logo=len&logoColor=white"></a>
+    <a href="#"><img alt="Lenovo Idepad Gaming 3" src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-999999?style=for-the-badge&logo=lenovo&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
+<br>
+<br>
+
+<a href="https://github.com/OscarChitay/github-readme-stat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OscarChitay&rank_icon=github&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarChitay&layout=donut&langs_count=8&card_width=320&theme=ambient_gradient" />
+</a>
+
+<br>
+<br>
+<a href="https://github.com/OscarChitay/p1-copiler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=p1-copiler&show_icons=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/OscarChitay/OscarChitay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=OscarChitay&show_icons=true&theme=ambient_gradient" />
+</a>
