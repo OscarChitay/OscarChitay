@@ -39,7 +39,7 @@ oscarchitay@github
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
 
 ```
-
+<br>
 <h3 align="center"> 🛠️My Stack🛠️ </h3>
 
 ### 🎯Programming Languages
