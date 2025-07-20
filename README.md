@@ -26,7 +26,7 @@
 
 ```
 oscarchitay@github
--------------------------
+-------------------
 💻 Systems Engineering student passionate about technology and develpent
 🎓 Studying at university and constantly learning new tools and languages
 🤖 Interested in smart systems and hands-on projects or co-working
