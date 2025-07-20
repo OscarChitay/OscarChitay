@@ -5,7 +5,7 @@
 <br/>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginering+Student;Always%20learning%20new%20things;Tech%20Enthusiastic&center=true&width=380&height=45" ></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF652F&width=380&height=45&lines=Systems+Engineering+Student;Always+learning+new+things;Thech+Enthusiastic;Looking+for+a+team+to+work" alt="Typing SVG" /></a>
 </p>
   <!--BADGES-->
 <p>
@@ -39,7 +39,9 @@ oscarchitay@github
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
 
 ```
-<br>
+<h1></h1>
+
+<h3 align="center"> 🛠️My Stack🛠️ </h3>
 
 ### 🎯Programming Languages
 
@@ -91,6 +93,7 @@ oscarchitay@github
     <a href="#"><img alt="Lenovo Idepad Gaming 3" src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-999999?style=for-the-badge&logo=lenovo&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
+<h1></h1>
 
 <h3 align="center"> ⭐GitHub Stats⭐ </h3><br>
 
