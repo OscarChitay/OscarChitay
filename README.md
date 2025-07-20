@@ -36,11 +36,8 @@ oscarchitay@github
 🚀 Passionate about Full Stack development and UI & UX 
 💡 always looking for ways to improve and build creative ideas
 🎧 Music helps me focus — from lofi to electronic, depends the vibe
+asfafds
 ```
-<h1></h1>
-<br/>
-<br/>
-
 
 
 ### 🛠️ STUFF
