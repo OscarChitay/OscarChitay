@@ -109,6 +109,6 @@ oscarchitay@github
 <a href="https://github.com/OscarChitay/p1-copiler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=p1-copiler&show_icons=true&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/OscarChitay/UMG-Laboratirio-3">
+<a href="https://github.com/OscarChitay/UMG-Laboratorio-3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=UMG-Laboratorio-3&show_icons=true&theme=codeSTACKr" />
 </a>
