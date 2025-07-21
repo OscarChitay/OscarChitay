@@ -98,7 +98,7 @@ oscarchitay@github
 
 <h3 align="center"> ⭐GitHub Stats⭐ </h3><br>
 
-<a href="https://github.com/OscarChitay/github-readme-stat">
+<a href="https://github.com/anuraghazra/github-readme-stat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OscarChitay&rank_icon=github&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -106,9 +106,9 @@ oscarchitay@github
 </a>
 
 <br>
-<a href="https://github.com/OscarChitay/p1-copiler">
+<a href="https://github.com/anuraghazra/p1-copiler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=p1-copiler&show_icons=true&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/OscarChitay/OscarChitay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=OscarChitay&show_icons=true&theme=codeSTACKr" />
+<a href="https://github.com/OscarChitay/UMG-Laboratirio-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarChitay&repo=UMG-Laboratorio-3&show_icons=true&theme=codeSTACKr" />
 </a>
