@@ -130,12 +130,6 @@ oscarchitay@github
 
 <br><br>
 
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarChitay&theme=codeSTACKr&hide_border=true" />
-</a>
-
-<br><br>
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -165,13 +159,6 @@ oscarchitay@github
 </div>
 
 <br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OscarChitay/OscarChitay/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   <h3>💭 Quote of the Day</h3>
