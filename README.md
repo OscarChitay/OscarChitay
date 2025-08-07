@@ -162,7 +162,7 @@ oscarchitay@github
 
 <div align="center">
   <h3>💭 Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
 
 
