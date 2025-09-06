@@ -63,21 +63,24 @@ oscarchitay@github
 
 ### ⚛️ Frameworks & Libraries
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
-    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+</p>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
+  <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
-<p></p>
+<p>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-     <a href="#"><img alt="SSMS" src ="https://img.shields.io/badge/SSMS-green.svg?logo=&logoColor=white"></a>
-     <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-9C033A.svg?"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="Compass" src="https://img.shields.io/badge/Compass-13AA52.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="SSMS" src ="https://img.shields.io/badge/SSMS-green.svg?logo=&logoColor=white"></a>
+  <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-9C033A.svg?"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -94,8 +97,9 @@ oscarchitay@github
     <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FB542B?logo=firefox&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-    
+  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"></a>
     
 
 </p>
