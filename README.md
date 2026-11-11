@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-v2.svg" alt="Oscar Chitay — Full-Stack Developer" width="100%" />
+  <img src="./assets/profile-banner-v3.svg" alt="Oscar Chitay — Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
