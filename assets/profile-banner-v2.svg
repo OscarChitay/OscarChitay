@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Oscar Chitay — Full-Stack Developer</title>
-  <desc id="desc">Dark technology-inspired profile banner with gold accents and a terminal illustration.</desc>
+  <desc id="desc">Technology-inspired profile banner highlighting JavaScript, TypeScript, and Python.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080a0d"/>
