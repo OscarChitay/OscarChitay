@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Oscar Chitay — Full-Stack Developer</title>
+  <desc id="desc">Dark technology-inspired profile banner with gold accents and a terminal illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080a0d"/>
+      <stop offset="0.55" stop-color="#11151b"/>
+      <stop offset="1" stop-color="#090b0f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="48%" r="50%">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8891e"/>
+      <stop offset="0.5" stop-color="#f1d675"/>
+      <stop offset="1" stop-color="#b8891e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="#d4af37" stroke-opacity="0.28"/>
+
+  <g transform="translate(74 67)">
+    <rect width="5" height="178" rx="2.5" fill="url(#gold)"/>
+    <text x="30" y="50" fill="#f6f7f9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="750" letter-spacing="3">OSCAR CHITAY</text>
+    <text x="32" y="92" fill="#d4af37" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="600" letter-spacing="1.3">FULL-STACK DEVELOPER</text>
+    <text x="32" y="135" fill="#aeb6c2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Building reliable web applications from interface to deployment.</text>
+    <g transform="translate(32 158)" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#798391">
+      <text x="0" y="0">NEXT.JS</text>
+      <circle cx="72" cy="-5" r="2" fill="#d4af37"/>
+      <text x="85" y="0">TYPESCRIPT</text>
+      <circle cx="183" cy="-5" r="2" fill="#d4af37"/>
+      <text x="196" y="0">PYTHON</text>
+      <circle cx="263" cy="-5" r="2" fill="#d4af37"/>
+      <text x="276" y="0">POSTGRESQL</text>
+    </g>
+  </g>
+
+  <g transform="translate(796 55)" filter="url(#shadow)">
+    <rect width="330" height="210" rx="14" fill="#0c1015" stroke="#343b46"/>
+    <path d="M0 42H330" stroke="#343b46"/>
+    <circle cx="23" cy="21" r="5" fill="#e35d6a"/>
+    <circle cx="42" cy="21" r="5" fill="#d4af37"/>
+    <circle cx="61" cy="21" r="5" fill="#4caf79"/>
+    <text x="92" y="26" fill="#65707f" font-family="JetBrains Mono, Consolas, monospace" font-size="11">oscar@portfolio</text>
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
+      <text x="24" y="76" fill="#d4af37">$</text>
+      <text x="42" y="76" fill="#d9dee6">whoami</text>
+      <text x="24" y="104" fill="#7f8a99">full-stack-developer</text>
+      <text x="24" y="136" fill="#d4af37">$</text>
+      <text x="42" y="136" fill="#d9dee6">ship --reliable --useful</text>
+      <text x="24" y="164" fill="#4caf79">✓ production ready</text>
+      <text x="24" y="190" fill="#d4af37">$</text>
+      <rect x="42" y="178" width="8" height="15" rx="1" fill="#d9dee6" opacity="0.8"/>
+    </g>
+  </g>
+
+  <path d="M74 282H1126" stroke="url(#gold)" stroke-opacity="0.45"/>
+  <circle cx="74" cy="282" r="3" fill="#d4af37"/>
+  <circle cx="1126" cy="282" r="3" fill="#d4af37"/>
+</svg>
