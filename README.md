@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=720&height=36&lines=Full-Stack+Developer;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+PostgreSQL;Building+practical+software+from+Guatemala;Open+to+full-stack+opportunities" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=720&height=36&lines=Full-Stack+Developer;JavaScript+%C2%B7+TypeScript+%C2%B7+Python;Building+web+applications%2C+APIs+and+data-driven+systems;Open+to+full-stack+opportunities" alt="Animated introduction" />
   </a>
 </p>
 

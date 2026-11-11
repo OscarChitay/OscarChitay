@@ -35,13 +35,11 @@
     <text x="32" y="92" fill="#d4af37" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="600" letter-spacing="1.3">FULL-STACK DEVELOPER</text>
     <text x="32" y="135" fill="#aeb6c2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Building reliable web applications from interface to deployment.</text>
     <g transform="translate(32 158)" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#798391">
-      <text x="0" y="0">NEXT.JS</text>
-      <circle cx="72" cy="-5" r="2" fill="#d4af37"/>
-      <text x="85" y="0">TYPESCRIPT</text>
-      <circle cx="183" cy="-5" r="2" fill="#d4af37"/>
-      <text x="196" y="0">PYTHON</text>
-      <circle cx="263" cy="-5" r="2" fill="#d4af37"/>
-      <text x="276" y="0">POSTGRESQL</text>
+      <text x="0" y="0">JAVASCRIPT</text>
+      <circle cx="92" cy="-5" r="2" fill="#d4af37"/>
+      <text x="108" y="0">TYPESCRIPT</text>
+      <circle cx="206" cy="-5" r="2" fill="#d4af37"/>
+      <text x="222" y="0">PYTHON</text>
     </g>
   </g>
 
