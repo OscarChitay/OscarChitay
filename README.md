@@ -16,15 +16,15 @@
 
 ## About me
 
-I'm a full-stack developer focused on building practical, end-to-end web applications. My recent work includes designing and developing a construction project management platform with budgeting, unit price analysis, scheduling, field logs, cost control, authentication, automated tests, and continuous integration.
+I'm a full-stack developer focused on building practical, end-to-end web applications. I have contributed to business platforms for construction operations and human-resources workflows, translating complex requirements into secure, maintainable software.
 
-I enjoy turning operational requirements into maintainable software, from responsive interfaces and REST APIs to relational data models and production deployments.
+I enjoy turning operational requirements into maintainable software—from responsive interfaces and REST APIs to relational data models, access control, automated testing, and production-ready delivery.
 
-## Featured projects
+## Professional work
 
-### [Constructora Rochhe](https://github.com/OscarChitay/constructora-rochhe-portfolio)
+### [Constructora Rochhe](https://github.com/OscarChitay/constructorarochhe-portfolio)
 
-![Production](https://img.shields.io/badge/status-production-16a34a?style=flat-square)
+![Portfolio case study](https://img.shields.io/badge/edition-portfolio_case_study-D4AF37?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -33,10 +33,41 @@ A full-stack platform for managing construction projects, from budgeting and uni
 
 - Role-based authentication and protected application modules
 - Construction budgeting and unit price analysis workflows
-- Automated frontend and backend tests with GitHub Actions CI
-- Sanitized public edition without operational or client data
+- Role-aware operations, private evidence handling, and reporting workflows
+- Public case study without source code, operational data, or deployment configuration
 
-**[Explore the repository](https://github.com/OscarChitay/constructora-rochhe-portfolio) · [Visit the live application](https://www.constructorarochhe.com/)**
+**[Explore the case study](https://github.com/OscarChitay/constructorarochhe-portfolio) · [Visit the public website](https://www.constructorarochhe.com/)**
+
+### [Reproplast RH](https://github.com/OscarChitay/reproplast-portfolio)
+
+![Collaborative](https://img.shields.io/badge/project-collaborative-7c3aed?style=flat-square)
+![React](https://img.shields.io/badge/React-Vite-149ECA?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-TypeScript-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+A collaborative full-stack HR platform for a multi-brand recycling group, covering employee operations, recruitment, requests, payroll-related workflows, administration, and reporting.
+
+- Full-stack contribution across responsive interfaces, APIs, and operational workflows
+- Role-aware access, employee and applicant journeys, requests, and notifications
+- Public documentation-only case study published with permission; source code remains private
+
+**[Explore the case study](https://github.com/OscarChitay/reproplast-portfolio)**
+
+## Selected engineering projects
+
+### [ZEN Social Media Platform](https://github.com/OscarChitay/zen-social-platform)
+
+![React](https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+A responsive social-media frontend with profiles, search, messaging, post interactions, image filters, and light/dark themes.
+
+- Client-side image filtering with adjustable intensity and before/after comparison
+- Socket.IO-ready messaging and optional OAuth/reCAPTCHA integrations
+- Public codebase with documented environment configuration and no embedded credentials
+
+**[Explore the repository](https://github.com/OscarChitay/zen-social-platform)**
 
 ### [Educational Compiler](https://github.com/OscarChitay/p1-copiler)
 
